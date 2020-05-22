@@ -5,8 +5,8 @@ This is the backend of wechat subscription account (Python酷) that let use to s
 
 The following two pictures shows how It will respond to the user's messages
 
-![Help Message](https://github.com/pythonlibrary/flask-wechat-backend/blob/master/example_1.jpg?raw=true)
-![Search for Carla Posts](https://github.com/pythonlibrary/flask-wechat-backend/blob/master/example_2.jpg?raw=true)
+![Help Message](https://github.com/pythonlibrary/flask-wechat-backend/blob/master/doc/example_1.jpg?raw=true)
+![Search for Carla Posts](https://github.com/pythonlibrary/flask-wechat-backend/blob/master/doc/example_2.jpg?raw=true)
 
 
 
