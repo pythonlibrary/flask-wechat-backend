@@ -1,0 +1,20 @@
+
+{
+    "NEV销量": ["https://pythonlibrary.net/shared-files/shared-files/617/NEV_sales.csv"],
+    "pythoncan": ["https://pythonlibrary.net/shared-files/shared-files/623/talk-to-your-car-master.zip"],
+    "bokeh和bottle": ["https://pythonlibrary.net/shared-files/shared-files/631/bokeh-bottlepy-master.zip"],
+    "autocoding": ["https://pythonlibrary.net/shared-files/shared-files/629/auto-coding-demo-master.zip"],
+    "q learning": ["https://pythonlibrary.net/shared-files/shared-files/627/ai-plays-maze-q_learning-master.zip"],
+    "PyQt5实战": ["https://pythonlibrary.net/shared-files/shared-files/625/wifidrop-master.zip"],
+
+    "资源列表": ["https://pythonlibrary.net/resource-links"],
+
+    "GitHub列表": [
+        "https://github.com/pythonlibrary/practice-pandas-skills",
+        "https://github.com/pythonlibrary/ai-plays-maze-q_learning",
+        "https://github.com/pythonlibrary/wifidrop",
+        "https://github.com/pythonlibrary/talk-to-your-car",
+        "https://github.com/pythonlibrary/auto-coding-demo",
+        "https://github.com/pythonlibrary/bokeh-bottlepy"
+    ]
+}
